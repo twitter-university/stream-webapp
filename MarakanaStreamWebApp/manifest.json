@@ -1,0 +1,16 @@
+{
+  "name": "Marakana - Stream Posts",
+  "description": "Portal to Marakana's entire library of open source knowledge",
+  "version": "1",
+  "app": {
+    "urls": [
+      "*://marakana.com/"
+    ],
+    "launch": {
+      "web_url": "http://marakana.com/s/marakana_stream_posts%2C1165/webapp.htm"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}
